@@ -1,0 +1,365 @@
+body{
+    background-color: rgb(42, 42, 42);
+}
+.my-nav{
+background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+    height: 90px !important;
+    margin-top: -5px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.my-Navebar{
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: bolder;
+}
+.my-Navebar > ul{
+   margin-left: auto;
+   margin-right: auto;
+}
+.my-Navebar ul li a:hover{
+    color: rgb(255, 234, 0);
+}
+.my-btn{
+    width: 250px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.my-slid{
+    text-align: center;
+    background-color: rgb(63, 63, 63);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.box{
+    border: 1px solid rebeccapurple;
+    background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+    height: 50px;
+    margin-top: 10px;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: white;
+}
+.my-card{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+
+}
+.my-png{
+    margin-top: 10px;
+}
+.my-2ndcard{
+    margin-top: -100px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.card-pic{
+    margin-top: 10px; 
+}
+.my-3rdcard{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.card-img{
+    margin-top: 20px; 
+}
+.box2{
+    border: 1px solid rebeccapurple;
+    background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+    height: 50px;
+    margin-top: 10px;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: gold;
+}
+.slider{
+    text-align: center;
+    background-color: rgb(63, 63, 63);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.box3{
+    border: 1px solid rebeccapurple;
+    background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+    height: 50px;
+    margin-top: 10px;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: red;
+}
+.meri-slid{
+    text-align: center;
+    background-color: rgb(63, 63, 63);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.box4{
+    border: 1px solid rebeccapurple;
+    background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+    height: 50px;
+    margin-top: 10px;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: rgb(0, 149, 255);
+}
+.box5{
+    border: 1px solid rebeccapurple;
+    background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+    height: 50px;
+    margin-top: 10px;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: rgb(225, 255, 0);
+}
+.mera-card{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.mera2-card{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.mera3-card{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.mera4-card{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+
+}
+.mera5-card{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+
+}
+.mera-card6{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.mera-card7{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.my-1{
+    height: 200px;
+}
+.my-2{
+    height: 192px;
+    width: 300px;
+}
+.my-3{
+height: 178px;}
+.my-4{
+    height: 160px; 
+}
+.my5{
+    margin-top: 90px;
+}
+.my-6{
+    margin-top: 100px;
+}
+.my-7{
+    margin-top: 60px;
+}
+.box6{
+    margin-top: 10px;
+    border: 2px solid rebeccapurple;
+    background-color: black;
+    margin-right: 3px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.box7{
+    margin-top: 10px;
+    border: 2px solid rebeccapurple;
+    background-color: black;
+    margin-right: 3px;
+}
+.m-c{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.m-c1{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.m-c2{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.m-c3{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.m-c4{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.pc1{
+    margin-top: 10px;
+}
+.pc2{
+    margin-top: 25px;
+}
+.pc3{
+    margin-top: 35px;
+}
+.pc4{
+    margin-top: 40px;
+}
+.box8{
+    margin-top: 10px;
+    border: 2px double rebeccapurple;
+    background-color: black;
+    margin-left: auto;
+    margin-right: 3px;
+}
+.Card-designe{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(78,47,117);
+background: linear-gradient(90deg, rgba(78,47,117,1) 0%, rgba(110,51,154,1) 50%, rgba(121,0,255,1) 100%) !important;
+color: whitesmoke;
+text-align: center;
+display: inline-block;
+}
+.im-1{
+    margin-top: 64px;
+}
+.im-2{
+    margin-top: 54px;
+}
+.im-5{
+    margin-top: 80px;
+}
+.footer{
+    border: 2px solid rebeccapurple;
+    background-color: black;
+    margin-right: 3px;
+    flex-direction: row;
+}
+.my-im{
+    text-align: center;
+}
+.my-p{
+    font-family: "Arial";
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 3px 2px rebeccapurple;
+}
+h3{
+    text-align: center;
+    color: rgb(172, 169, 169);
+
+}
